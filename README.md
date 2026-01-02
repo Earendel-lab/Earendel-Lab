@@ -61,15 +61,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/earendel/earendel/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/earendel/earendel/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/earendel/earendel/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/earendel/earendel/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVwd2NjY25rYXY1bGxwNzA4NGx4b3c4bTA4YXB6ejJ6OGxraWlidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D35fOVm9gSQ91icJeR/giphy.gif"  />
+</div>
 
 ###
 
@@ -78,9 +72,12 @@
 </div>
 
 ###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=202&section=footer&reversal=false&text=See%20ya&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
 </div>
 
-###
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=189&section=footer&reversal=false&text=See%20ya%20%E2%86%9D&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
