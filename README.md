@@ -5,7 +5,7 @@
 ###
 # 🛰️ DJ | Earendel
 
-🔗 **[Visit My Space](https://earendel-lab.github.io/earendel.github.io/)**
+🔗 **[Visit My Space](https://earendel-lab.github.io/Earendel/)**
 
 **Bug Hunter · Tech Enthusiast · Cosmos Explorer**
 
