@@ -1,6 +1,4 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&text=Welcome&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
+ ![onyqx5ayj1kb1](https://github.com/user-attachments/assets/03557315-3a10-4bfd-887a-e4f982e0e61d)
 
 ###
 # DJ | Earendel
@@ -82,7 +80,7 @@
   <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY25xa3Z0NnZ2amlpOWhqbDU2ZjNyOGgxZjVxZWlqY2FicmYyOGN0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif"  />
 </div>
 
-> ![7ee23b143584307 627d1059832ae](https://github.com/user-attachments/assets/f3563df6-be53-4aba-ba97-0066c985e09e)
+ ![7ee23b143584307 627d1059832ae](https://github.com/user-attachments/assets/f3563df6-be53-4aba-ba97-0066c985e09e)
 
 ###
 <div>
