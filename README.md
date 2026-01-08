@@ -3,7 +3,7 @@
 </div>
 
 ###
-# 🛰️ DJ | Earendel
+# DJ | Earendel
 
 🔗 **[Visit My Space](https://earendel-lab.github.io/Earendel/)**
 
@@ -11,28 +11,28 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- **Role:** Specialized **Bug Hunter** — I find the mistakes others miss 🐜  
-- **Mission:** Making projects **glitch-free** and launch-ready 🚀  
-- **Passion:** Deep fascination with the **Cosmos** and the future of **Project Starshot** 🔭  
-- **Philosophy:** Structural minimalism — removing noise to focus on **performance** ⚡  
+- **Role:** Specialized **Bug Hunter** — I find the mistakes others miss 
+- **Mission:** Making projects **glitch-free** and launch-ready   
+- **Passion:** Deep fascination with the **Cosmos** and the future of **Project Starshot**   
+- **Philosophy:** Structural minimalism — removing noise to focus on **performance**   
 
 ---
 
 ## 🛠️ What I Do
 
 - **App Testing:** Stress-testing applications before users ever see them ✅  
-- **Web Development:** Building immersive experiences with **Three.js** and **Vanilla JS** 🎮  
-- **Quality Assurance:** Bringing **structure and stability** to messy codebases 🏗️  
+- **Web Development:** Building immersive experiences with **Three.js** and **Vanilla JS**   
+- **Quality Assurance:** Bringing **structure and stability** to messy codebases   
 
 ---
 
 ## 📬 Reach Out
 
 - **Building an app?** Send it to me — I *will* find the bugs  
-- **Discord:** `dj044680` 💬  
-- **Email:** `zwebuse@gmail.com` 📧  
+- **Discord:** `dj044680`   
+- **Email:** `zwebuse@gmail.com`   
 
 ---
 
