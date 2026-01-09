@@ -7,8 +7,7 @@
 
 **Bug Hunter · Tech Enthusiast · Cosmos Explorer**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1800">
-<br><br>
+---
 
 ##  About Me
 
@@ -25,15 +24,15 @@
 - **Web Development:** Building immersive experiences with **Three.js** and **Vanilla JS**   
 - **Quality Assurance:** Bringing **structure and stability** to messy codebases   
 
----
 
 ## 📬 Reach Out
 
 - **Building an app?** Send it to me — I *will* find the bugs  
 - **Discord:** `dj044680`   
 - **Email:** `zwebuse@gmail.com`   
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1800">
+<br><br>
 
----
 
 🌌 *Exploring the code. Watching the stars.*
 
@@ -72,14 +71,11 @@
 
 ###
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100">
 </div>
 
-<div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY25xa3Z0NnZ2amlpOWhqbDU2ZjNyOGgxZjVxZWlqY2FicmYyOGN0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif"  />
-</div>
+
 
  ![7ee23b143584307 627d1059832ae](https://github.com/user-attachments/assets/f3563df6-be53-4aba-ba97-0066c985e09e)
 
