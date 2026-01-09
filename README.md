@@ -1,5 +1,8 @@
- ![onyqx5ayj1kb1](https://github.com/user-attachments/assets/03557315-3a10-4bfd-887a-e4f982e0e61d)
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=true&text=Welcome&fontSize=57&fontColor=FFFFFF&fontAlign=52&fontAlignY=27&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
+###
 ###
 # DJ | Earendel
 
