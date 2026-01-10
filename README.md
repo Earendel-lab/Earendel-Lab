@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ What I Do
+## 512 What I Do
 
 - **App Testing:** Stress-testing applications before users ever see them ✅  
 - **Web Development:** Building immersive experiences with **Three.js** and **Vanilla JS**   
