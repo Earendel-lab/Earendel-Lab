@@ -20,7 +20,7 @@
 
 ---
 
-## 512 What I Do
+##  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2049_fe0f/512.gif" alt="⁉" width="25" height="25"> What I Do
 
 - **App Testing:** Stress-testing applications before users ever see them ✅  
 - **Web Development:** Building immersive experiences with **Three.js** and **Vanilla JS**   
