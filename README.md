@@ -11,7 +11,7 @@
 
 ---
 
-##  About Me
+##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="25" height="25" />About Me
 
 - **Role:** Specialized **Bug Hunter** — I find the mistakes others miss 
 - **Mission:** Making projects **glitch-free** and launch-ready   
@@ -27,7 +27,7 @@
 - **Quality Assurance:** Bringing **structure and stability** to messy codebases   
 
 
-## 📬 Reach Out
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Reach Out
 
 - **Building an app?** Send it to me — I *will* find the bugs  
 - **Discord:** `dj044680`   
@@ -36,7 +36,7 @@
 <br><br>
 
 
-🌌 *Exploring the code. Watching the stars.*
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="25" height="25" /> *Exploring the code. Watching the stars.*
 
 
 ###
