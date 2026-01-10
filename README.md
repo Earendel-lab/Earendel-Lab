@@ -3,7 +3,7 @@
 </div>
 
 ###
-# DJ | Earendel
+# DJ | Earendel <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cyclone.png" alt="Cyclone" width="25" height="25" />
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="25" />**[Visit My Space](https://earendel-lab.github.io/Earendel/)**
 
