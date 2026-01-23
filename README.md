@@ -4,7 +4,10 @@
 
 # DJ | Earendel <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cyclone.png" alt="Cyclone" width="25" height="25" />
 
-**<span style="color:#02a824">Bug Hunter</span> · QA Engineer · Cosmos Explorer**  
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Bug%20Hunter-%2302a824?style=for-the-badge&logo=appveyor&logoColor=white" alt="Bug Hunter" /></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/QA%20Engineer-%2302a824?style=for-the-badge&logo=appveyor&logoColor=white" alt="QA Engineer" /></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Cosmos%20Explorer-%2302a824?style=for-the-badge&logo=astronaut&logoColor=white" alt="Cosmos Explorer" /></a>
+
 [Visit My Space](https://earendel-lab.github.io/Earendel/)
 
 ---
@@ -13,53 +16,54 @@
 
 <div style="display:flex; align-items:center; gap:12px;">
 <div>
-I specialize in **<span style="color:#02a824">bug hunting</span>** and **<span style="color:#02a824">quality assurance</span>**, focusing on edge cases most developers miss.  
+  
+I specialize in **bug hunting** and **quality assurance**, focusing on edge cases most developers miss.  
 
 My mission: ship **glitch-free, high-performance apps**.  
 
-Outside code, I explore the **<span style="color:#02a824">cosmos</span>** and next-gen tech like **Project Starshot**.  
+Outside code, I explore the **cosmos** and next-gen tech like **Project Starshot**.  
 
 I follow **structural minimalism** — remove noise, keep what performs.
 </div>
 
 ---
 
-## <span style="color:#02a824">What I Do</span>
+## What I Do
 
-<div style="display:flex; flex-direction:column; gap:6px;">
 - **App Testing:** Break apps under real-world conditions before users do  
-- **Web Development:** Interactive, **lightweight** experiences with Three.js + Vanilla JS  
-- **QA & Stability:** Turn chaotic codebases into **predictable, structured systems**
-</div>
+- **QA & Stability:** Turn chaotic codebases into predictable, structured systems  
 
 ---
 
-## <span style="color:#02a824">Reach Out</span>
+## Reach Out
 
-**Building an app?** Send it my way — I *will* find the bugs.  
-
-- **Discord:** `dj044680`  
-- **Email:** `zwebuse@gmail.com`  
-
----
-
-## <span style="color:#02a824">Current Focus</span>
-
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
-- Bug hunting & QA workflows  
-- Interactive <span style="color:#02a824">web experiments</span>  
-- Systems-level learning & architecture
-</div>
+<a href="https://discord.com/users/dj044680" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+<span style="margin-left:8px;">dj044680</span>
+<br>
+<a href="mailto:zwebuse@gmail.com">
+  <img src="https://img.shields.io/badge/Email-%2302a824?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<span style="margin-left:8px;">zwebuse@gmail.com</span>
 
 ---
 
-## <span style="color:#02a824">GitHub Stats</span>
+## Current Focus
+
+- Bug Hunting & QA workflows  
+- Web Experiments  
+- Systems Learning & architecture
+
+---
+
+## GitHub Stats
 
 ![DJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Earendel-lab&show_icons=true&theme=radical&hide_rank=true&hide_title=false&icon_color=02a824&text_color=02a824)
 
 ---
 
-## <span style="color:#02a824">Tech Stack & Tools</span>
+## Tech Stack & Tools
 
 <div align="left" style="display:flex; flex-wrap:wrap; gap:14px; margin-top:12px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" style="filter: drop-shadow(0 0 5px #02a824);" alt="HTML5" />
