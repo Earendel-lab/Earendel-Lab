@@ -59,8 +59,10 @@ I follow **structural minimalism** — remove noise, keep what performs.
 
 ## GitHub Stats
 
-![DJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Earendel-lab&show_icons=true&theme=radical&hide_rank=true&hide_title=false&icon_color=02a824&text_color=02a824)
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Earendel-lab&show_icons=true&theme=radical&hide_rank=true&hide_title=false&icon_color=02a824&text_color=02a824" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Earendel-lab&layout=compact&theme=radical&hide_border=false&langs_count=6&icon_color=02a824" />
+</div>
 ---
 
 ## Tech Stack & Tools
