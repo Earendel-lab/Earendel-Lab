@@ -16,6 +16,7 @@
 
 <div style="display:flex; align-items:center; gap:12px;">
 <div>
+  
 I specialize in **bug hunting** and **quality assurance**, focusing on edge cases most developers miss.  
 
 My mission: ship **glitch-free, high-performance apps**.  
