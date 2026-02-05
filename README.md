@@ -41,7 +41,7 @@ I follow **structural minimalism** — remove noise, keep what performs.
 <a href="https://discord.com/users/1393491217299275778" target="_blank">
   <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
-<span style="margin-left:8px;">Earendel</span>
+<span style="margin-left:8px;">Earendel_lab</span>
 <br>
 <a href="mailto:zwebuse@gmail.com">
   <img src="https://img.shields.io/badge/Email-%2302a824?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
