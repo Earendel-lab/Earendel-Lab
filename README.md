@@ -19,7 +19,9 @@
   
 I specialize in **bug hunting** and **quality assurance**, focusing on edge cases most developers miss.  
 
-My mission: ship **glitch-free, high-performance apps**.  
+My mission: ship **glitch-free, high-performance apps**. 
+
+Designing **easy to remember**, logical ad minimal app **icons**
 
 Outside code, I explore the **cosmos** and next-gen tech like **Project Starshot**.  
 
@@ -31,8 +33,9 @@ I follow **structural minimalism** — remove noise, keep what performs.
 
 ## What I Do
 
-- **App Testing:** Break apps under real-world conditions before users do  
-- **QA & Stability:** Turn chaotic codebases into predictable, structured systems  
+- **App Testing:** Break apps under real-world conditions before users do.  
+- **QA & Stability:** Turn chaotic codebases into predictable, structured systems.
+- **Icon designing** Designs simple and minimal  icons.
 
 ---
 
