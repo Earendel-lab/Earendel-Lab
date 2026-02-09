@@ -5,7 +5,7 @@
 # DJ | Earendel <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cyclone.png" alt="Cyclone" width="25" height="25" />
 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Bug%20Hunter-%2302a824?style=for-the-badge&logo=appveyor&logoColor=white" alt="Bug Hunter" /></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/QA%20Engineer-%2302a824?style=for-the-badge&logo=appveyor&logoColor=white" alt="QA Engineer" /></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/QA%20Engineer-%2302a824?style=for-the-badge&logo=appveyor&logoColor=white" alt="QA ANALYST" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Cosmos%20Explorer-%2302a824?style=for-the-badge&logo=astronaut&logoColor=white" alt="Cosmos Explorer" /></a>
 
 [Visit My Space](https://earendel-lab.github.io/Earendel/)
@@ -63,15 +63,7 @@ I follow **structural minimalism** — remove noise, keep what performs.
 
 
 ## Tech Stack & Tools
-
-<div align="left" style="display:flex; flex-wrap:wrap; gap:14px; margin-top:12px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" style="filter: drop-shadow(0 0 5px #02a824);" alt="HTML5" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" style="filter: drop-shadow(0 0 5px #02a824);" alt="TypeScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" style="filter: drop-shadow(0 0 5px #02a824);" alt="VS Code" />
-<img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=for-the-badge" height="50" style="border-radius:6px; filter: drop-shadow(0 0 5px #02a824);" alt="Android" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="50" style="filter: drop-shadow(0 0 5px #02a824);" alt="Google" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" style="filter: drop-shadow(0 0 5px #02a824);" alt="Canva" />
-<img src="https://cdn.simpleicons.org/discord/5865F2" height="50" style="filter: drop-shadow(0 0 5px #02a824);" alt="Discord" />
+<div align="left" style="display:flex; flex-wrap:wrap; gap:14px; margin-top:12px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" style="filter: drop-shadow(0 0 5px #02a824);" alt="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" style="filter: drop-shadow(0 0 5px #02a824);" alt="TypeScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" style="filter: drop-shadow(0 0 5px #02a824);" alt="VS Code" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" style="filter: drop-shadow(0 0 5px #02a824);" alt="Git" /> <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=for-the-badge" height="50" style="border-radius:6px; filter: drop-shadow(0 0 5px #02a824);" alt="Android" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50" style="filter: drop-shadow(0 0 5px #02a824);" alt="Android Studio" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" style="filter: drop-shadow(0 0 5px #02a824);" alt="Figma" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="50" style="filter: drop-shadow(0 0 5px #02a824);" alt="Google" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" style="filter: drop-shadow(0 0 5px #02a824);" alt="Canva" /> <img src="https://cdn.simpleicons.org/discord/5865F2" height="50" style="filter: drop-shadow(0 0 5px #02a824);" alt="Discord" /> </div>
 </div>
 
 ---
