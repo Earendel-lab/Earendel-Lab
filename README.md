@@ -79,5 +79,6 @@ I follow **structural minimalism** — remove noise, keep what performs.
 ---
 
 <div>
-  <img style="width:100%; height:220px; border-radius:12px;" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&reversal=false&text=See%20ya%20%E2%86%9D&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Svznify/Svznify/output/snake.svg" alt="Snake animation" />
+</p>
