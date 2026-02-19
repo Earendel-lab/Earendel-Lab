@@ -1,5 +1,7 @@
-<div>
-  <img style="width:100%; height:260px; border-radius:12px;" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&reversal=true&text=Welcome&fontSize=65&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&stroke=-&animation=twinkling&descSize=22&descAlign=50&descAlignY=60&color=gradient" />
+<div align="center">
+	<img src="welcome-header.gif" alt="welcome to my github profile">
+	<br>
+	<br>
 </div>
 
 # DJ | Earendel <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cyclone.png" alt="Cyclone" width="25" height="25" />
