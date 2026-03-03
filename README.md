@@ -23,7 +23,7 @@ I specialize in **bug hunting** and **quality assurance**, focusing on edge case
 
 My mission: ship **glitch-free, high-performance apps**. 
 
-Designing **easy to remember**, logical ad minimal app **icons**
+Designing **easy to remember**, logical and minimal app **icons**
 
 Outside code, I explore the **cosmos** and next-gen tech like **Project Starshot**.  
 
