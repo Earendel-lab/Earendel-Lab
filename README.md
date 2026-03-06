@@ -77,8 +77,9 @@ I follow **structural minimalism** — remove noise, keep what performs.
 > Exploring the code. Watching the stars.
 
 ---
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=earendel-lab&bg_color=000000&color=21d600&line=21a13d&point=f2f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div>
+	
 <p align="center">
   <img src="https://raw.githubusercontent.com/Svznify/Svznify/output/snake.svg" alt="Snake animation" />
 </p>
