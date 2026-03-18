@@ -80,6 +80,8 @@ I follow **structural minimalism** — remove noise, keep what performs.
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=earendel-lab&bg_color=000000&color=21d600&line=21a13d&point=f2f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div>
 	
+![earendel-lab's Stats](https://github-readme-stats.vercel.app/api?username=earendel-lab&theme=blue-green&show_icons=true&hide_border=true&count_private=true&layout=compact)![earendel-lab's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=earendel-lab&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
+	
 <p align="center">
   <img src="https://raw.githubusercontent.com/Svznify/Svznify/output/snake.svg" alt="Snake animation" />
 </p>
