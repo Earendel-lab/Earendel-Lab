@@ -1,8 +1,5 @@
-<div align="center">
-	<img src="welcome-header.gif" alt="welcome to my github profile">
-	<br>
-	<br>
-</div>
+
+
 
 # DJ | Earendel <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cyclone.png" alt="Cyclone" width="25" height="25" />
 
@@ -81,6 +78,11 @@ I follow **structural minimalism** — remove noise, keep what performs.
 <div>
 	
 ![earendel-lab's Stats](https://github-readme-stats.vercel.app/api?username=earendel-lab&theme=blue-green&show_icons=true&hide_border=true&count_private=true&layout=compact)![earendel-lab's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=earendel-lab&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
+
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=earendel-lab&repo=currency&theme=blue-green)](https://github.com/earendel-lab/currency)
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=earendel-lab&repo=compass&theme=blue-green)](https://github.com/earendel-lab/compass)
 	
 <p align="center">
   <img src="https://raw.githubusercontent.com/Svznify/Svznify/output/snake.svg" alt="Snake animation" />
