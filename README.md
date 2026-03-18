@@ -7,8 +7,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/QA%20Engineer-%2302a824?style=for-the-badge&logo=appveyor&logoColor=white" alt="QA ANALYST" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Cosmos%20Explorer-%2302a824?style=for-the-badge&logo=astronaut&logoColor=white" alt="Cosmos Explorer" /></a>
 
-[Visit My Space](https://earendel-lab.github.io/Earendel/)
-
+> [Portfolio](https://earendel-lab.github.io/Earendel/)
 ---
 
 ## About Me
@@ -19,8 +18,6 @@
 I specialize in **bug hunting** and **quality assurance**, focusing on edge cases most developers miss.  
 
 My mission: ship **glitch-free, high-performance apps**. 
-
-Designing **easy to remember**, logical and minimal app **icons**
 
 Outside code, I explore the **cosmos** and next-gen tech like **Project Starshot**.  
 
