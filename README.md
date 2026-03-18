@@ -74,7 +74,7 @@ I follow **structural minimalism** — remove noise, keep what performs.
   <img height="260" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVwd2NjY25rYXY1bGxwNzA4NGx4b3c4bTA4YXB6ejJ6OGxraWlidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D35fOVm9gSQ91icJeR/giphy.gif" style="border-radius:12px;"/>
 </div>
 
-> Exploring the code. Watching the stars.
+> ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20AD00&width=435&separator=%3C&lines=The+cosmos+exists;+I+wonder+how.)
 
 ---
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=earendel-lab&bg_color=000000&color=21d600&line=21a13d&point=f2f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
