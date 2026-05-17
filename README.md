@@ -69,9 +69,7 @@ I follow **structural minimalism** — remove noise, keep what performs.
 > ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20AD00&width=435&separator=%3C&lines=The+cosmos+exists;+I+wonder+how.)
 
 ---
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=earendel-lab&bg_color=000000&color=21d600&line=21a13d&point=f2f2f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<div>
-	
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Earendel-lab&show_icons=true&theme=tokyonight&rank_icon=percentile)
 ---	
 <p align="center">
   <img src="https://raw.githubusercontent.com/Svznify/Svznify/output/snake.svg" alt="Snake animation" />
