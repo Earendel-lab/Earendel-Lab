@@ -1,4 +1,5 @@
 # DJ | Earendel <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cyclone.png" alt="Cyclone" width="25" height="25" />
+![trophy](https://github-profile-trophy.vercel.app/?username=Earendel-lab&theme=tokyonight&row=1&column=6)
 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Bug%20Hunter-%2302a824?style=for-the-badge&logo=appveyor&logoColor=white" alt="Bug Hunter" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/QA%20Engineer-%2302a824?style=for-the-badge&logo=appveyor&logoColor=white" alt="QA ANALYST" /></a>
