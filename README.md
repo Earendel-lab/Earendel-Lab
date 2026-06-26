@@ -40,7 +40,7 @@ I follow **structural minimalism** — remove noise, keep what performs.
 </a>
 <span style="margin-left:8px;"></span>
 <br>
-<a href="mailto:zwebuse@gmail.com">
+<a href="mailto:225195223+Earendel-lab@users.noreply.github.com">
   <img src="https://img.shields.io/badge/Email-%2302a824?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <span style="margin-left:8px;"></span>
