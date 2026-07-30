@@ -25,14 +25,6 @@ I follow **structural minimalism** — remove noise, keep what performs.
 
 ---
 
-## What I Do
-
-- **App Testing:** Break apps under real-world conditions before users do.  
-- **QA & Stability:** Turn chaotic codebases into predictable, structured systems.
-- **Icon designing** Designs simple and minimal  icons.
-
----
-
 ## Reach Out
 
 <a href="https://discord.com/users/1393491217299275778" target="_blank">
@@ -44,14 +36,6 @@ I follow **structural minimalism** — remove noise, keep what performs.
   <img src="https://img.shields.io/badge/Email-%2302a824?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <span style="margin-left:8px;"></span>
-
----
-
-## Current Focus
-
-- Bug Hunting & QA workflows  
-- Web Experiments  
-- Systems Learning & architecture
 
 ---
 
