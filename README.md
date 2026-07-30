@@ -2,7 +2,7 @@
 
 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Bug%20Hunter-%2302a824?style=for-the-badge&logo=appveyor&logoColor=white" alt="Bug Hunter" /></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/QA%20Engineer-%2302a824?style=for-the-badge&logo=appveyor&logoColor=white" alt="QA ANALYST" /></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/QA%20Tester-%2302a824?style=for-the-badge&logo=appveyor&logoColor=white" alt="QA ANALYST" /></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Cosmos%20Explorer-%2302a824?style=for-the-badge&logo=astronaut&logoColor=white" alt="Cosmos Explorer" /></a>
 
 > [Portfolio](https://earendel-lab.github.io/Earendel/)
