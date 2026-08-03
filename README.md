@@ -53,5 +53,5 @@ Outside of that, I like **space, new tech, and building things**.
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Earendel-lab&show_icons=true&theme=tokyonight&rank_icon=percentile)
 ---	
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Svznify/Svznify/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Earendel-lab/Earendel-lab/output/snake.svg" alt="Snake animation" />
 </p>
