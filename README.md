@@ -1,25 +1,21 @@
+![Welcome](./welcome-header.gif)
 # ᗪᒍ | Earendel <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cyclone.png" alt="Cyclone" width="25" height="25" />
 
 
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Bug%20Hunter-%2302a824?style=for-the-badge&logo=appveyor&logoColor=white" alt="Bug Hunter" /></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/QA%20Tester-%2302a824?style=for-the-badge&logo=appveyor&logoColor=white" alt="QA ANALYST" /></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Cosmos%20Explorer-%2302a824?style=for-the-badge&logo=astronaut&logoColor=white" alt="Cosmos Explorer" /></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Bug%20Hunter-%2302a824?" alt="Bug Hunter" /></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/QA%20Tester-%2302a824?" alt="QA ANALYST" /></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Cosmos%20Explorer-%2302a824?" alt="Cosmos Explorer" /></a>
 
-> [Portfolio](https://earendel-lab.github.io/Earendel/)
+# [Portfolio](https://earendel-lab.github.io/Earendel/)
 ---
 
 ## About Me
 
-<div style="display:flex; align-items:center; gap:12px;">
-<div>
-  
-I specialize in **bug hunting** and **quality assurance**, focusing on edge cases most developers miss.  
+I spend my time **testing apps, finding bugs, and making things better**.
 
-My mission: ship **glitch-free, high-performance apps**. 
+I also work on documentation and create clean, minimal icons for projects.
 
-Outside code, I explore the **cosmos** and next-gen tech like **Project Starshot**.  
-
-I follow **structural minimalism** — remove noise, keep what performs.
+Outside of that, I like **space, new tech, and building things**.
 </div>
 </div>
 
@@ -41,7 +37,8 @@ I follow **structural minimalism** — remove noise, keep what performs.
 
 
 ## Tech Stack & Tools
-<div align="left" style="display:flex; flex-wrap:wrap; gap:14px; margin-top:12px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" style="filter: drop-shadow(0 0 5px #02a824);" alt="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" style="filter: drop-shadow(0 0 5px #02a824);" alt="TypeScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" style="filter: drop-shadow(0 0 5px #02a824);" alt="VS Code" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" style="filter: drop-shadow(0 0 5px #02a824);" alt="Git" /> <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=for-the-badge" height="50" style="border-radius:6px; filter: drop-shadow(0 0 5px #02a824);" alt="Android" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50" style="filter: drop-shadow(0 0 5px #02a824);" alt="Android Studio" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" style="filter: drop-shadow(0 0 5px #02a824);" alt="Figma" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="50" style="filter: drop-shadow(0 0 5px #02a824);" alt="Google" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" style="filter: drop-shadow(0 0 5px #02a824);" alt="Canva" /> <img src="https://cdn.simpleicons.org/discord/5865F2" height="50" style="filter: drop-shadow(0 0 5px #02a824);" alt="Discord" /> </div>
+<div align="left" style="display:flex; flex-wrap:wrap; gap:14px; margin-top:12px;">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" style="filter: drop-shadow(0 0 5px #02a824);" alt="VS Code" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" style="filter: drop-shadow(0 0 5px #02a824);" alt="Git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" style="filter: drop-shadow(0 0 5px #181717);" alt="GitHub" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="50" style="filter: drop-shadow(0 0 5px #02a824);" alt="Android" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50" style="filter: drop-shadow(0 0 5px #02a824);" alt="Android Studio" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" style="filter: drop-shadow(0 0 5px #02a824);" alt="Figma" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="50" style="filter: drop-shadow(0 0 5px #02a824);" alt="Google" /> 
+</div>
 </div>
 
 ---
