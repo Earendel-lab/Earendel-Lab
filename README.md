@@ -48,9 +48,6 @@ Outside of that, I like **space, new tech, and building things**.
 </div>
 
 > ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20AD00&width=435&separator=%3C&lines=The+cosmos+exists;+I+wonder+how.)
-
----
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Earendel-lab&show_icons=true&theme=tokyonight&rank_icon=percentile)
 ---	
 <p align="center">
   <img src="https://raw.githubusercontent.com/Earendel-lab/Earendel-lab/output/snake.svg" alt="Snake animation" />
